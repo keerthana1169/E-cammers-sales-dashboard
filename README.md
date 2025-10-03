@@ -20,6 +20,8 @@ Illustrates total profit for select months (May, July, September, December), hig
 Implemented to filter orders by quarter and state for more granular analysis. Donut Chart:
 
 Shows total quantity ordered by category, revealing a strong preference for clothing items (about 44% of orders). Notably, a significant number of customers preferred cash on delivery.
-Example:https:[Dashboard_preview]//github.com/keerthana1169/E-cammers-sales-dashboard/blob/main/Screenshot%202025-10-03%20212146.png
+
 
 Conclusion: The E-commerce sales analysis offers a comprehensive framework for understanding sales performance and customer behavior. By leveraging the insights and recommendations derived from this analysis, the company can enhance growth strategies, improve customer satisfaction, and maintain a competitive edge in the evolving e-commerce landscape.
+Example:[Dashboard_preview] https://github.com/keerthana1169/E-cammers-sales-dashboard/blob/main/Screenshot%202025-10-03%20212146.png
+
